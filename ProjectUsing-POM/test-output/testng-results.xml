@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-24T22:19:53 BDT" name="Default suite" finished-at="2024-12-24T22:20:37 BDT" duration-ms="43596">
+    <groups>
+    </groups>
+    <test started-at="2024-12-24T22:19:53 BDT" name="Default test" finished-at="2024-12-24T22:20:37 BDT" duration-ms="43596">
+      <class name="swagurltest.SwagLabTesting">
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:swagurltest.SwagLabTesting@d554c5f]" started-at="2024-12-24T22:19:53 BDT" name="setUpTest" finished-at="2024-12-24T22:19:57 BDT" duration-ms="3566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="testPurchaseProduct()[pri:0, instance:swagurltest.SwagLabTesting@d554c5f]" started-at="2024-12-24T22:19:57 BDT" name="testPurchaseProduct" finished-at="2024-12-24T22:20:37 BDT" duration-ms="39751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPurchaseProduct -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:swagurltest.SwagLabTesting@d554c5f]" started-at="2024-12-24T22:20:37 BDT" name="tearDownTest" finished-at="2024-12-24T22:20:37 BDT" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- swagurltest.SwagLabTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
